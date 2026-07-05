@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local/editor noise
+.$*
+*.tmp
+*.bak
+*.log
+
+# Visual Studio cache
+Systems/PythonApplication1/.vs/
+*.suo
+
+# Original unorganised workspace copy; clean portfolio files live in top-level folders.
+Systems/
+
+# Superseded generated portfolio draft
+Christian_Ihejirika_Amodo_Mini_Portfolio.pdf
+

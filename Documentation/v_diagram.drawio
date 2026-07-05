@@ -1,0 +1,110 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="HIsUaURxoFebFICMpkM4">
+    <mxGraphModel dx="3569" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CONOPS / Mission Need&lt;div&gt;User safely launches football&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="277" x="-990" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stakeholder Requirements&lt;div&gt;Safe, portable, low-cost, repeatable&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="277" x="-960" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;br&gt;Subsystem Requirements&lt;br&gt;Frame, motor, guide, controller, safety&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="277" x="-850" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Integration Testing&lt;br&gt;Confirm subsystems work together" vertex="1">
+          <mxGeometry height="60" width="277" x="-330" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Architecture / Concept&lt;br&gt;Power → control → drive → launch mechanism" vertex="1">
+          <mxGeometry height="60" width="277" x="-810" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Subsystem Verification&lt;br&gt;Test frame, motor, guide, control, interlocks" vertex="1">
+          <mxGeometry height="60" width="277" x="-300" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="System Verification&lt;br&gt;Measure speed, angle, accuracy, reload time" vertex="1">
+          <mxGeometry height="60" width="277" x="-270" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="System Requirements&lt;div&gt;&amp;nbsp;Speed, angle, repeatability, safety&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="277" x="-910" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Operational Validation&lt;br&gt;Full load–launch–reset demo" vertex="1">
+          <mxGeometry height="60" width="277" x="-200" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Acceptance Testing&lt;br&gt;Pass/fail against project aims" vertex="1">
+          <mxGeometry height="60" width="277" x="-230" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Detailed Design&lt;br&gt;CAD, materials, fasteners, wiring, sizing&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="277" x="-750" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inspection / Analysis&lt;br&gt;Check drawings, calculations, fit, strength" vertex="1">
+          <mxGeometry height="60" width="277" x="-390" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;BUILD / PROTOTYPE&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="277" x="-573" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-22" edge="1" parent="1" source="1v9E-r_u_48d8hXe8wPh-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1v9E-r_u_48d8hXe8wPh-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-500" y="500" as="sourcePoint" />
+            <mxPoint x="-450" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-23" edge="1" parent="1" source="1v9E-r_u_48d8hXe8wPh-10" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1v9E-r_u_48d8hXe8wPh-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-560" y="370" as="sourcePoint" />
+            <mxPoint x="-47" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-24" edge="1" parent="1" source="1v9E-r_u_48d8hXe8wPh-16" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1v9E-r_u_48d8hXe8wPh-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-580" y="480" as="sourcePoint" />
+            <mxPoint x="-67" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-26" edge="1" parent="1" source="1v9E-r_u_48d8hXe8wPh-19" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1v9E-r_u_48d8hXe8wPh-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-620" y="540" as="sourcePoint" />
+            <mxPoint x="-107" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-27" edge="1" parent="1" source="1v9E-r_u_48d8hXe8wPh-13" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1v9E-r_u_48d8hXe8wPh-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-450" y="670" as="sourcePoint" />
+            <mxPoint x="-77" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-28" edge="1" parent="1" source="1v9E-r_u_48d8hXe8wPh-11" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1v9E-r_u_48d8hXe8wPh-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-520" y="620" as="sourcePoint" />
+            <mxPoint x="-60" y="599.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=103;endSize=41;width=83;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-110" y="1000" as="sourcePoint" />
+            <mxPoint x="237" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkNliHOFt9ehXFmHwchR-4" connectable="0" parent="1v9E-r_u_48d8hXe8wPh-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-65;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Integration, verification and validation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Component tests → subsystem tests → system tests → operational dem&lt;/font&gt;o&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0681" as="geometry">
+            <mxPoint x="-29" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v9E-r_u_48d8hXe8wPh-32" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=103;endSize=41;width=83;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1160" y="300" as="sourcePoint" />
+            <mxPoint x="-840" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkNliHOFt9ehXFmHwchR-3" connectable="0" parent="1v9E-r_u_48d8hXe8wPh-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=65;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Design definition / decomposition&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;&quot;&gt;CONOPS → requirements → architecture → detailed de&lt;/font&gt;sign&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1291" y="-10" as="geometry">
+            <mxPoint x="10" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkNliHOFt9ehXFmHwchR-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p data-start=&quot;261&quot; data-end=&quot;297&quot;&gt;&lt;strong data-start=&quot;261&quot; data-end=&quot;297&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Football Launcher CONOPS V-Model&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p data-start=&quot;299&quot; data-end=&quot;327&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="470" x="-650" y="173" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

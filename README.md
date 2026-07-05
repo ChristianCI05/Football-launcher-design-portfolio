@@ -29,6 +29,7 @@ This is an active project repository, not a claim of finished hardware. The curr
 - A first-order Python feasibility model sampling 18 uncertain parameters across 20,000 runs.
 - Stability sensitivity results showing exit velocity, frame weight, base width, launch height, travel and ground friction as key drivers.
 - A design response: foldable-but-rigid deployed legs and a verified stability footprint are now treated as core requirements.
+- Arrest-force status update: the original Monte Carlo sweep screened short arrest distances; the current design response uses a 200 mm carriage arrest stroke, which keeps the worst-case sampled carriage-energy check below the 1000 N pass limit.
 
 ## Selected Results
 
@@ -42,5 +43,4 @@ This is an active project repository, not a claim of finished hardware. The curr
 
 The application-stage mini-portfolio is available at:
 
-[Documentation/Christian_Ihejirika_Mini_Portfolio_Amodo.pdf](Documentation/Christian_Ihejirika_Mini_Portfolio_Amodo.pdf)
-
+[Documentation/MINI_Portfolio.pdf](Documentation/MINI_Portfolio.pdf)
